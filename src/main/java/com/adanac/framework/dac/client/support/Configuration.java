@@ -13,7 +13,6 @@ import org.springframework.util.Assert;
 /**
  * 描述：配置类<br>
  * 用来存放全局配置
- * 
  * @author adanac
  */
 public class Configuration {

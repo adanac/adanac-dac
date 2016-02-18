@@ -8,8 +8,8 @@ import com.adanac.framework.dac.pagination.PaginationResult;
 
 /**
  * 对非分库分表的项目提供分页查询
- * 
  * @author adanac
+ * @version 1.0
  */
 public interface IPaginationDacClient {
 	/**

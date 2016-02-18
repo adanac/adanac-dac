@@ -8,8 +8,8 @@ import org.springframework.jdbc.core.SqlParameter;
 
 /**
  * 客户端接口
- * 
  * @author adanac
+ * @version 1.0
  */
 public interface DacClient {
 	/**

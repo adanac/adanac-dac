@@ -30,7 +30,6 @@ import com.adanac.framework.dac.parsing.xml.XmlSqlMapBuilder;
 
 /**
  * 默认客户端
- * 
  * @author adanac
  */
 public class DefaultDacClient implements DacClient, InitializingBean {

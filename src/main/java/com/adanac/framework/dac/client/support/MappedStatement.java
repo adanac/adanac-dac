@@ -4,6 +4,11 @@ import java.util.Map;
 
 import com.adanac.framework.dac.parsing.FreeMakerParser;
 
+/**
+ * sql描述
+ * @author adanac
+ * @version 1.0
+ */
 public class MappedStatement {
 	private String resource;
 	private Configuration configuration;

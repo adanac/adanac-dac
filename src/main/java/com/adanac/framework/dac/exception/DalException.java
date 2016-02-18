@@ -3,7 +3,6 @@ package com.adanac.framework.dac.exception;
 /**
  * 
  * Dal异常类<br>
- * 
  * @author adanac
  */
 public class DalException extends RuntimeException {
