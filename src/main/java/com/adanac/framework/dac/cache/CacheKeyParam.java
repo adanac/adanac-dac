@@ -1,11 +1,10 @@
 package com.adanac.framework.dac.cache;
 
-/**
- * 描述：缓存key参数<br>
+/***
+ * 描述：缓存key参数
  * 用以计算缓存key
- * 
- * @see [相关类/方法]（可选）
- * @since [产品/模块版本] （可选）
+ * @author adanac
+ * @version 1.0
  */
 public class CacheKeyParam {
 
