@@ -6,7 +6,7 @@
   <groupId>com.adanac.framework</groupId>
   <artifactId>adanac-dac</artifactId>
   <packaging>pom</packaging>   
-
+  <name>adanac-dac</name>
   	<parent>
 		<groupId>com.adanac.framework.archetypes</groupId>
 		<artifactId>adanac-parent</artifactId>
