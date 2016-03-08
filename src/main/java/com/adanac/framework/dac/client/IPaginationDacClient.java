@@ -11,7 +11,7 @@ import com.adanac.framework.dac.pagination.PaginationResult;
  * @author adanac
  * @version 1.0
  */
-public interface IPaginationDacClient {
+public interface IPaginationDacClient extends DacClient {
 	/**
 	 * 根据sqlId查询多个对象，返回Map<String, Object>类型对象List集合和数据行数
 	 * <p>
