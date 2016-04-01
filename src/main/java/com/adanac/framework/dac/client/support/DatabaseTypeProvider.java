@@ -1,4 +1,4 @@
-package com.adanac.framework.dac.client;
+package com.adanac.framework.dac.client.support;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
