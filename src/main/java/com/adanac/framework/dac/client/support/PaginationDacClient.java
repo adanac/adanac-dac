@@ -9,8 +9,6 @@ import com.adanac.framework.dac.client.IPaginationDacClient;
 import com.adanac.framework.dac.client.support.executor.DBType;
 import com.adanac.framework.dac.client.support.executor.PaginationSqlExecutor;
 import com.adanac.framework.dac.pagination.DB2Dialect;
-//import com.bn.framework.dac.client.support.executor.DBType;
-//import com.bn.framework.dac.client.support.executor.PaginationSqlExecutor;
 import com.adanac.framework.dac.pagination.Dialect;
 import com.adanac.framework.dac.pagination.MySQLDialect;
 import com.adanac.framework.dac.pagination.OracleDialect;
